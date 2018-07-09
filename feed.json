@@ -1,55 +1,29 @@
-{
-    "title": "Whimsical Swift Syntax",
-    "subtitle": "A Collection of Swift Lessons",
-    "publisherName": "Company Name Inc.",
-    "feedIdentifier": "io.github.emarley",
-    "contactURL": "https://support.example.com",
-    "formatVersion": "1.0",
-    "documents": [
-        {
-            "title": "The Key Path Not Taken",
-            "overviewSubtitle": "Dynamically Choosing Among Key Paths",
-            "detailSubtitle": "Because key paths in Swift are applied at runtime, their behavior is dynamic.",
-            "description": "Learn to compare key paths and pick the right one.",
-            "contentIdentifier": "com.example.whimsicalswift.keypaths",
-            "contentVersion": "1.0",
-            "url": "keypaths/keypaths.playgroundbook.zip",
-            "publishedDate": "2017-11-13T21:13:57+00:00",
-            "lastUpdatedDate": "2017-11-13T21:13:57+00:00",
-            "thumbnailURL": "keypaths/thumbnail.png",
-            "bannerImageURL": "keypaths/banner.png",
-            "additionalInformation": [
-                {
-                    "name": "Languages",
-                    "value": "English"
-                }
-            ],
-            "previewImageURLs": [
-                "keypaths/preview-1.png"
-            ]
-        },
-        {
-            "title": "Structer Things",
-            "overviewSubtitle": "Understand Structures by Comparing Them with Classes",
-            "detailSubtitle": "Choose between using a structure or a class to model data.",
-            "description": "Learn about value semantics and reference semantics.",
-            "contentIdentifier": "com.example.whimsicalswift.structures-and-classes",
-            "contentVersion": "1.0",
-            "url": "structures-and-classes/structures-and-classes.playgroundbook.zip",
-            "publishedDate": "2017-11-13T21:13:57+00:00",
-            "lastUpdatedDate": "2017-11-13T21:13:57+00:00",
-            "thumbnailURL": "structures-and-classes/thumbnail.png",
-            "bannerImageURL": "structures-and-classes/banner.png",
-            "additionalInformation": [
-                {
-                    "name": "Languages",
-                    "value": "English"
-                }
-            ],
-            "previewImageURLs": [
-                "structures-and-classes/preview-1.png"
-            ]
-        }
-    ]
-}
+// feed.json
 
+{
+	"title": "Recess, a Playgrounds Experiment",
+	"publisherName": "Liz Marley",
+	"feedIdentifier": "io.github.emarley.recess",
+	"contactURL": "https://twitter.com/emarley",
+	"formatVersion": "1.0",
+	"documents": [
+		{
+			"title": "Coloring Book",
+			"overviewSubtitle": "Explore the principles of color.",
+			"detailSubtitle": "A solid understanding of color can help you improve your app's appeal and accessiblity.",
+			"contentIdentifier": "io.github.emarley.recess.ColoringBook",
+			"contentVersion": "1.0",
+			"url": "https://emarley.github.io/recess/ColoringBook/ColoringBook.playgroundbook.zip",
+			"publishedDate": "2018-07-08T08:40:00-07:00",
+   			"lastUpdatedDate": "2018-07-08T08:40:00-07:00",
+			"thumbnailURL": "ColoringBook/thumbnail.png",
+            "bannerImageURL": "ColoringBook/bannerImage.png",
+			"additionalInformation": [
+				{
+					"name": "Languages",
+					"value": "English"
+				}	
+			]
+		}
+	]		
+}
