@@ -10,10 +10,14 @@
 		{
 			"title": "Coloring Book",
 			"overviewSubtitle": "Explore the principles of color.",
-			"detailSubtitle": "A solid understanding of color can improve your app's appeal and accessiblity.",
-			"contentIdentifier": "io.github.emarley.recess.coloringBook",
+			"detailSubtitle": "A solid understanding of color can help you improve your app's appeal and accessiblity.",
+			"contentIdentifier": "io.github.emarley.recess.ColoringBook",
 			"contentVersion": "1.0",
-			"url": "https://emarley.github.io/recess/ColoringBook.playgroundbook.zip",
+			"url": "https://emarley.github.io/recess/ColoringBook/ColoringBook.playgroundbook.zip",
+			"publishedDate": "2018-07-08T08:40:00-07:00",
+   			"lastUpdatedDate": "2018-07-08T08:40:00-07:00",
+			"thumbnailURL": "ColoringBook/thumbnail.png",
+            "bannerImageURL": "ColoringBook/bannerImage.png",
 			"additionalInformation": [
 				{
 					"name": "Languages",
