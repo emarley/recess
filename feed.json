@@ -1,0 +1,25 @@
+// feed.json
+
+{
+	"title": "Recess, a Playgrounds Experiment",
+	"publisherName": "Liz Marley",
+	"feedIdentifier": "io.github.emarley.recess",
+	"contactURL": "https://twitter.com/emarley",
+	"formatVersion": "1.0",
+	"documents": [
+		{
+			"title": "Coloring Book",
+			"overviewSubtitle": "Explore the principles of color.",
+			"detailSubtitle": "A solid understanding of color can improve your app's appeal and accessiblity.",
+			"contentIdentifier": "io.github.emarley.recess.coloringBook",
+			"contentVersion": "1.0",
+			"url": "https://emarley.github.io/recess/ColoringBook.playgroundbook.zip",
+			"additionalInformation": [
+				{
+					"name": "Languages",
+					"value": "English"
+				}	
+			]
+		}
+	]		
+}
